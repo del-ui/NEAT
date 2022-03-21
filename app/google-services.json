@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554915269461",
+    "project_id": "neat-14215",
+    "storage_bucket": "neat-14215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554915269461:android:9ce34640f574013251fddc",
+        "android_client_info": {
+          "package_name": "com.victor.neat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554915269461-e3fbgf2pe37pesvcmc89j2f429dgbkbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9q8Wd1Zn5ZHRgQLyLd7V09Enow_RDB0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554915269461-e3fbgf2pe37pesvcmc89j2f429dgbkbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
